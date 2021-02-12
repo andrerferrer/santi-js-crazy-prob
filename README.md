@@ -9,11 +9,6 @@ cd my-js-project
 rm -rf .git
 yarn install
 stt # Open this folder in Sublime Text
-```
-
-Make sure you have `./node_modules/.bin` in your `$PATH`! This way you can run this:
-
-```bash
-webpack-dev-server
+node_modules/.bin/webpack-dev-server
 ```
 
