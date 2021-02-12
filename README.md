@@ -9,6 +9,6 @@ cd my-js-project
 rm -rf .git
 yarn install
 stt # Open this folder in Sublime Text
-node_modules/.bin/webpack-dev-server
+node_modules/.bin/webpack-dev-server # start listening to http://localhost:8080
 ```
 
